@@ -1,2 +1,3 @@
 # Practice--repo
-This is a practice repository By Palak Singh
+This is a practice repository
+<br>By Palak Singh
